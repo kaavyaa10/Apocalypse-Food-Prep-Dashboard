@@ -17,24 +17,6 @@ The dataset reflects purchases made between **January and April 2022**, covering
 
 ---
 
-## 🗂️ Repository Structure
-apocalypse-food-prep-dashboard/
-│
-├── README.md
-├── REPORT.docx
-├── LICENSE
-│
-├── dashboard/
-│   ├── dashboard.pbix
-│   └── dashboard_screenshots/
-│       └── dashboard_overview.png
-│
-├── data/
-│   └── Apocolypse_Food_Prep.xlsx
-│
-└── scripts/
-    └── data_cleaning_notes.txt
-
 
 ## 📈 Dashboard Components
 
